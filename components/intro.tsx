@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://www.mediafire.com/view/8p7ja8v71w252x5/WhatsApp_Image_2024-02-04_at_16.43.28_ba7c8b31_%25282%2529.jpg"
+              src="https://images.unsplash.com/photo-1708019719382-c604b0a98ab3?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Ricardo portrait"
               width="192"
               height="192"
